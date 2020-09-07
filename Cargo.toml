@@ -3,10 +3,10 @@ name = "actix-dynamic-threadpool"
 version = "0.1.0"
 authors = ["fakeshadow <24548779@qq.com>"]
 edition = "2018"
-
 keywords = ["actix", "threadpool"]
 license = "MIT"
 exclude = ["examples/*", "tests/*"]
+description = "a dynamic scale threadpool for actix crates"
 repository = "https://github.com/fakeshadow/actix-dynamic-threadpool"
 readme= "README.md"
 
